@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alberta",
+        "code": "AB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.5765, 53.9333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "British Columbia",
+        "code": "BC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-127.6476, 53.7267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manitoba",
+        "code": "MB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.739, 55.3781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Brunswick",
+        "code": "NB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1732, 46.5653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newfoundland and Labrador",
+        "code": "NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.1304, 51.9588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nova Scotia",
+        "code": "NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.7443, 44.682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ontario",
+        "code": "ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.3232, 51.2538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Edward Island",
+        "code": "PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.4168, 46.5107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quebec",
+        "code": "QC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.208, 52.9399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saskatchewan",
+        "code": "SK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.4509, 55.4324]
+      }
+    }
+  ]
+}
